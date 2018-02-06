@@ -1,0 +1,9 @@
+int main()
+{
+    int i, p;
+    if (i == 1) p = 2
+        else p = 3
+    
+    x = 1;
+    s = 3
+}

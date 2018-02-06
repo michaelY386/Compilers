@@ -1,0 +1,4 @@
+float func()
+{
+    float a = .E-1;
+}
