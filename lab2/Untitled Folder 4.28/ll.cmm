@@ -1,0 +1,9 @@
+struct Pos{
+    int i;
+};
+int main()
+{
+    int a[10];
+    int b;
+    a + Pos;
+}

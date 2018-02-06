@@ -1,0 +1,11 @@
+int main()
+{
+    float i = -1.05e-4;
+    float p = 43.0e-4;
+    float q = 01e1;
+    float r = 01.23E12;
+    int j = 0123;
+    int k = 0x3F;
+    //int l = 09;
+    //int w = 0x3G;
+}

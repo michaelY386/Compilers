@@ -1,0 +1,12 @@
+int test(int m, int n){
+    return m+n;
+}
+
+int main()
+{
+    int a = read();
+    int b = read();
+    int c = test(a, b);
+    write(c);
+    return c;
+}

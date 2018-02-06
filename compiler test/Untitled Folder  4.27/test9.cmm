@@ -1,0 +1,10 @@
+int fun(int i, float j)
+{
+    return 2.2; 
+}
+int main()
+{
+    i = 1;
+    j = 2.2;
+    fun(1, 2);
+}

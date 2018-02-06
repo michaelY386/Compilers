@@ -1,0 +1,4 @@
+upload to Lab4:
+ftp://114.212.190.181:40user and psw: upload
+
+Deadline:6/29

@@ -1,0 +1,20 @@
+FUNCTION test :
+PARAM v1
+PARAM v2
+t2 := v1
+t3 := v2
+t1 := t2 + t3
+RETURN t1
+FUNCTION main :
+READ t4
+v3 := t4
+READ t5
+v4 := t5
+t7 := v3
+t8 := v4
+ARG t8
+ARG t7
+t6 := CALL test
+v5 := t6
+t9 := v5
+RETURN t9

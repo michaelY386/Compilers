@@ -1,0 +1,6 @@
+int main()
+{
+    float i;
+    int k, j;
+    k = j && i;
+}

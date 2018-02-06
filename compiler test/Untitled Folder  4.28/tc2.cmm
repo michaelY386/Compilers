@@ -1,0 +1,9 @@
+struct H{
+    int age;
+    int wei;
+}pl;
+
+int main()
+{
+
+}

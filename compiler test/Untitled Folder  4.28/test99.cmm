@@ -1,0 +1,9 @@
+int fun(int a[]){
+    return 0;
+}
+
+int main()
+{
+    int p[5];
+    fun(p);
+}

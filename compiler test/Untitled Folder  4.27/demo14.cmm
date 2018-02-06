@@ -1,0 +1,10 @@
+struct Pos
+{
+    float x, y;
+};
+
+int main()
+{
+    struct Pos p;
+    p.n;
+}

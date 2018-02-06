@@ -1,0 +1,13 @@
+int test()
+{// a line 
+    float a = 4.5;
+ /*
+ flaf
+ /* */
+//} //dsgsdg
+ float b = 3;
+ /*f nsofn  / *****
+ int b = 2
+ */
+ return a + b;
+}
